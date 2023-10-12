@@ -1,5 +1,5 @@
 <div align="left" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&random=false&width=600&lines=Hello+there!+Welcome+to+my+profile+%F0%9F%91%8B+;I'm+open+for+Hiring!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=386AF7&random=false&width=600&lines=Hello+there!+Welcome+to+my+profile+%F0%9F%91%8B+;I'm+open+for+hiring!" alt="Typing SVG" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Okesanya Odunayo</h1>
 
