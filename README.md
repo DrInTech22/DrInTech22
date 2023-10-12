@@ -5,7 +5,11 @@
 
 ![Okesanya Odunayo](https://github.com/DrInTech22/DrInTech22/assets/94924061/70893431-d3a7-4b22-95c2-94f2a29e7bdf)
 
+<h3 align="center">
+   👨‍💻 Whoami
+</h3>
 
+---
 
 <p align="center">I am a DevOps engineer with a passion for optimizing infrastructures through cloud technologies. My expertise in CI/CD, Infrastructure as Code, and configuration management enables me to expedite time-to-market for products, fostering agility and innovation within organizations. With an exceptional writing skills, I advocate for the cloud ecosystem, promoting the simplification of complex infrastructures through the adoption of cloud solutions.
 </p>
@@ -23,7 +27,7 @@
 - ⚡ Fun fact **I am a dental student and an avid gamer.**
 
 ---
-<h3 align="left">🤝 Let's connect </h3>
+<h3 align="left"> 🤝 Let's connect </h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/okesanya-odunayo-drintech-b42814254/" target="_blank">
@@ -38,7 +42,7 @@
 
 
 ---
-<h3 align="left">💬 My Blogs </h3>
+<h3 align="left"> 💬 My Blogs </h3>
   
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samuelokesanya12)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@DrInTech)[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/drintech)
 
