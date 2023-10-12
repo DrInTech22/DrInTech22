@@ -1,7 +1,7 @@
 <div align="left" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=386AF7&random=false&width=600&lines=Hello+there!+Welcome+to+my+profile+%F0%9F%91%8B+;I'm+open+for+hiring!" alt="Typing SVG" /></a>
 </div>
-<h1 align="center">Hi 👋, I'm Okesanya Odunayo</h1>
+<h1 align="center">Hi 👋, I'm Odunayo</h1>
 
 ![Okesanya Odunayo](https://github.com/DrInTech22/DrInTech22/assets/94924061/70893431-d3a7-4b22-95c2-94f2a29e7bdf)
 
